@@ -1,0 +1,89 @@
+GRADED QUIZ -1 
+
+1.
+Question 1
+A modern data ecosystem includes a network of continually evolving entities. It includes: 
+
+
+
+Data providers, databases, and programming languages
+
+
+--> Data sources, enterprise data repository, business stakeholders, and tools, applications, and infrastructure to manage data
+
+
+Social media sources, data repositories, and APIs
+
+
+Data sources, databases, and programming languages
+
+
+2. Data Engineers work within the data ecosystem to: 
+
+
+
+Analyze data for deriving insights
+
+
+-->Provide business intelligence solutions by monitoring data on different business functions
+
+
+Develop and maintain data architectures
+
+
+Analyze data for actionable insights
+
+
+3.
+Question 3
+The goal of data engineering is to make quality data available for fact-finding and decision-making. Which one of these statements captures the process of data engineering? 
+
+
+
+Collecting, processing, and making data available to users securely
+
+
+Processing data and making it available to users securely
+
+
+-->Collecting, processing, storing, and making data available to users securely
+
+
+Collecting, processing, and storing data
+
+
+4.
+Question 4
+Data extracted from disparate sources can be stored in: 
+
+1 / 1 point
+
+Data Warehouses only
+
+
+-->Databases, data warehouses, data lakes, or any other type of data repository
+
+
+Databases only
+
+
+Data Lakes only
+
+
+5.
+Question 5
+From the provided list, select the three emerging technologies that are shaping today’s data ecosystem. 
+
+1 / 1 point
+
+Cloud Computing, Internet of Things, and Dashboarding
+
+
+Big Data, Internet of Things, and Dashboarding
+
+
+Machine Language, Cloud Computing, and Internet of Things
+
+
+--> Cloud Computing, Machine Learning, and Big Data
+
