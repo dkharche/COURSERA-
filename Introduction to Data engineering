@@ -1,0 +1,96 @@
+1.
+Question 1
+Automated tools, frameworks, and processes for all stages of the data analytics process are part of the Data Engineer’s ecosystem. What role do data integration tools play in this ecosystem?
+
+
+
+-->Combine data from multiple sources into a unified view that is accessed by data consumers to query and manipulate data
+
+
+Cover the entire journey of data from source to destination
+
+
+Conduct complex data analytics
+
+
+Store high-volume day-to-day operational data in data repositories
+
+Correct
+Data Integration tools provide a unified view to data collected from disparate sources so that it can be accessed via a single interface for query and manipulation by data consumers.
+
+2.
+Question 2
+Which of these data sources is an example of semi-structured data?  
+
+
+-->Emails
+
+
+Documents
+
+
+Network and web logs
+
+
+Social media feeds
+
+Correct
+Emails are a source of semi-structured data as they have a mix of data with some organizational properties but do not follow a rigid schema.
+
+3.
+Question 3
+Which one of the provided file formats is commonly used by APIs and Web Services to return data? 
+
+1
+
+XLS
+
+
+Delimited file
+
+
+XML
+
+
+-->JSON
+
+Correct
+JSON is the format that is most used by APIs and Web Services to return data.
+
+4.
+Question 4
+What is one example of the relational databases
+discussed in the video? 
+
+
+
+-->SQL Server
+
+
+XML
+
+
+Flat files
+
+
+Spreadsheet
+
+Correct
+SQL Server is one of the examples of relational databases shared in the video.
+
+5.
+Question 5
+Which of the following languages is one of the most popular querying languages in use today?
+
+1 / 1 point
+
+R
+
+
+Java
+
+
+SQL
+
+
+Python
