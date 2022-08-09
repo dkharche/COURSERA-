@@ -1,0 +1,72 @@
+1.
+Question 1
+How do Convolutions improve image recognition?
+
+1 point
+
+They make the image smaller
+
+
+-->They isolate features in images
+
+
+They make processing of images faster
+
+
+They make the image clearer
+
+2.
+Question 2
+What does the Pooling technique do to the images?
+
+1 point
+
+-->Reduces information in them while maintaining some features
+
+
+Combines them
+
+
+Makes them sharper
+
+
+Isolates features in them
+
+3.
+Question 3
+True or  False. If you pass a 28x28 image through a 3x3 filter the output will be 26x26
+
+1 point
+
+-->True
+
+
+False
+
+4.
+Question 4
+After max pooling a 26x26 image with a 2x2 filter, the output will be 56x56
+
+1 point
+
+-->False
+
+
+True
+
+5.
+Question 5
+How does using Convolutions in our Deep neural network impact training?
+
+1 point
+
+It does not affect training
+
+
+-->ts impact will depend on other factors.
+
+
+It makes it slower
+
+
+It makes it faster
